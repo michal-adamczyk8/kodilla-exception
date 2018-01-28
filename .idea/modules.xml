@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Projekty.iml" filepath="$PROJECT_DIR$/.idea/Projekty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-exception.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-exception_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-exception_main.iml" group="kodilla-exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-exception_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-exception_test.iml" group="kodilla-exception" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream2.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream2_main.iml" group="kodilla-stream2" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream2_test.iml" group="kodilla-stream2" />

@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-stream2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-testing" vcs="Git" />
   </component>
 </project>
