@@ -1,8 +1,7 @@
 package com.kodilla.exception.main;
 
 import com.kodilla.exception.io.FileReader;
-import com.kodilla.exception.test.FirstChallenge;
-import com.kodilla.exception.test.SecondChallenge;
+import com.kodilla.exception.test.*;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -21,6 +20,7 @@ public class ExceptionModuleRunner {
         }
         finally {
            System.out.println("Próbę działania podjęto o " + LocalDateTime.now());
+           System.out.println("");
        }
 
         SecondChallenge secondChallenge = new SecondChallenge();
@@ -32,6 +32,18 @@ public class ExceptionModuleRunner {
        }
        finally {
            System.out.println("Próbę działania podjęto o " + LocalDateTime.now());
+           System.out.println("");
        }
+
+
+        Flight flight1 = new Flight("Warsaw", "Cracow");
+        FlightSearcher flightSearcher = new FlightSearcher();
+       try {
+           flightSearcher.findFlight(flight1);
+       } catch (RouteNotFoundException e){
+           System.out.println("The searched route was not found.");
+       }
+
+
     }
 }
