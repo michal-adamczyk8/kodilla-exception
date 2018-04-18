@@ -4,10 +4,116 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Codiwars" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Codiwars" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/MessegeGate" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/MessegeGate" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-exception" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/kodilla-exception" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-good-patterns" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-good-patterns" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-hibernate" />
+        <option name="gradleHome" value="C:/gradle-4.4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-hibernate" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-jdbc" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-jdbc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-patterns" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-patterns" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-patterns2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-patterns2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-rps" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-rps" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-spring" />
+        <option name="gradleHome" value="C:/gradle-4.4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-spring" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-spring-intro" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-spring-intro" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-spring-web" />
+        <option name="gradleHome" value="C:/gradle-4.4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-spring-web" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -19,6 +125,7 @@
             <option value="$PROJECT_DIR$/kodilla-stream" />
           </set>
         </option>
+        <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
@@ -26,6 +133,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/kodilla-stream2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-sudoku" />
           </set>
         </option>
       </GradleProjectSettings>

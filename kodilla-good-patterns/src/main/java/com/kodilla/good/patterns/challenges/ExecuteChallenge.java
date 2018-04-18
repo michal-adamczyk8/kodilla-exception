@@ -7,7 +7,7 @@ public class ExecuteChallenge {
         MovieStores movieStore = new MovieStores();
         String movies = movieStore.getMovies().entrySet().stream()
                 .flatMap(m -> m.getValue().stream())
-                .collect(Collectors.joining("!","<<",">>"));
+                .collect(Collectors.joining(" ! ","<< "," >>"));
         System.out.println(movies);
 
 

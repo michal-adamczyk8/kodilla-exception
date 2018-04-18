@@ -3,7 +3,16 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MessegeGate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-good-patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-hibernate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-jdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-rps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-spring-web" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-stream2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smsgateway" vcs="Git" />
   </component>
 </project>
