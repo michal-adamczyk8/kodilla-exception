@@ -4,20 +4,18 @@
     <list default="true" id="1fb2b710-a804-4d98-b0e2-43fb01666742" name="review" comment="">
       <change beforePath="$PROJECT_DIR$/Calculator" afterPath="$PROJECT_DIR$/Calculator" />
       <change beforePath="$PROJECT_DIR$/Calculator/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/Calculator/.gradle/4.4.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/MessegeGate" afterPath="$PROJECT_DIR$/MessegeGate" />
       <change beforePath="$PROJECT_DIR$/MessegeGate/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/MessegeGate/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/MessegeGate/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/MessegeGate/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/kodilla-exception/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-exception/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/kodilla-exception/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-exception/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/kodilla-good-patterns/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-good-patterns/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/kodilla-good-patterns/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-good-patterns/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/kodilla-good-patterns/out/production/classes/com/kodilla/good/patterns/challenges/ExecuteChallenge.class" afterPath="$PROJECT_DIR$/kodilla-good-patterns/out/production/classes/com/kodilla/good/patterns/challenges/ExecuteChallenge.class" />
       <change beforePath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/airport/Airport.java" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/airport/Airport.java" />
       <change beforePath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/airport/FlightSearchService.java" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/airport/FlightSearchService.java" />
-      <change beforePath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/challenges/ExecuteChallenge.java" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/challenges/ExecuteChallenge.java" />
+      <change beforePath="$PROJECT_DIR$/kodilla-jdbc" afterPath="$PROJECT_DIR$/kodilla-jdbc" />
       <change beforePath="$PROJECT_DIR$/kodilla-jdbc/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-jdbc/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/kodilla-jdbc/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-jdbc/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns" afterPath="$PROJECT_DIR$/kodilla-patterns" />
       <change beforePath="$PROJECT_DIR$/kodilla-patterns/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-patterns/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/kodilla-patterns/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-patterns/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/kodilla-rps" afterPath="$PROJECT_DIR$/kodilla-rps" />
       <change beforePath="$PROJECT_DIR$/kodilla-rps/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-rps/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/kodilla-rps/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-rps/.gradle/4.0/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/kodilla-rps/src/main/java/com/kodilla/rps/RpsRunner.java" afterPath="$PROJECT_DIR$/kodilla-rps/src/main/java/com/kodilla/rps/RpsRunner.java" />
@@ -28,6 +26,7 @@
       <change beforePath="$PROJECT_DIR$/kodilla-testing" afterPath="$PROJECT_DIR$/kodilla-testing" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-testing/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-testing/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/smsgateway" afterPath="$PROJECT_DIR$/smsgateway" />
       <change beforePath="$PROJECT_DIR$/smsgateway/.idea/compiler.xml" afterPath="$PROJECT_DIR$/smsgateway/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/smsgateway/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/smsgateway/.idea/workspace.xml" afterPath="$PROJECT_DIR$/smsgateway/.idea/workspace.xml" />
@@ -38,10 +37,6 @@
       <change beforePath="$PROJECT_DIR$/smsgateway/target/classes/pl/madamczyk/Commander.class" afterPath="$PROJECT_DIR$/smsgateway/target/classes/pl/madamczyk/Commander.class" />
     </list>
     <list id="a1da8162-584b-450e-81cf-256a47a15e00" name="Default" comment="Zadanie 7.4">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/kodilla-testing/.gradle/" />
@@ -232,8 +227,8 @@
       <file leaf-file-name="ResolveSudoku.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/com/kodilla/sudoku/ResolveSudoku.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+            <state relative-caret-position="220">
+              <caret line="73" column="24" lean-forward="true" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -5414,7 +5409,7 @@
       <workItem from="1522769146223" duration="9802000" />
       <workItem from="1522839715559" duration="9926000" />
       <workItem from="1522961511602" duration="26000" />
-      <workItem from="1523139223644" duration="41629000" />
+      <workItem from="1523139223644" duration="42254000" />
     </task>
     <task id="LOCAL-00001" summary="First Testing">
       <created>1515533753474</created>
@@ -5459,7 +5454,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="499589000" />
+    <option name="totallyTimeSpent" value="500214000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -5472,7 +5467,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47368422" sideWeight="0.5151286" order="7" side_tool="true" content_ui="tabs" />
@@ -5492,10 +5486,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21546052" sideWeight="0.48789713" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21546052" sideWeight="0.48789713" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34266263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -5991,8 +5985,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/com/kodilla/sudoku/ResolveSudoku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+        <state relative-caret-position="220">
+          <caret line="73" column="24" lean-forward="true" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
