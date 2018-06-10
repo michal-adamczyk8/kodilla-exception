@@ -23,6 +23,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-jdbc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc_test.iml" group="kodilla-jdbc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns2.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-patterns3/kodilla-patterns3.iml" filepath="$PROJECT_DIR$/kodilla-patterns3/kodilla-patterns3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns3_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns3_main.iml" group="kodilla-patterns3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns3_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns3_test.iml" group="kodilla-patterns3" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns_main.iml" group="kodilla-patterns" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns_test.iml" group="kodilla-patterns" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-rps.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-rps.iml" />

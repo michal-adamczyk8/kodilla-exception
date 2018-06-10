@@ -12,7 +12,9 @@
     <mapping directory="$PROJECT_DIR$/kodilla-spring" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-spring-web" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-stream2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-sudoku" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/library/library" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/smsgateway" vcs="Git" />
   </component>
 </project>
