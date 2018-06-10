@@ -8,11 +8,6 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/library/library/src/test/java/com/crud/library/controller/BookControllerTestSuite.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/library/library/src/test/java/com/crud/library/controller/LendingControllerTestSuite.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/library/library/src/test/java/com/crud/library/controller/ReaderControllerTestSuite.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-hibernate_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/kodilla-hibernate_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/Calculator" afterPath="$PROJECT_DIR$/Calculator" />
       <change beforePath="$PROJECT_DIR$/Calculator/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/Calculator/.gradle/4.4.1/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/MessegeGate" afterPath="$PROJECT_DIR$/MessegeGate" />
@@ -20,16 +15,12 @@
       <change beforePath="$PROJECT_DIR$/MessegeGate/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/MessegeGate/.gradle/4.0/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/airport/Airport.java" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/airport/Airport.java" />
       <change beforePath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/airport/FlightSearchService.java" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/airport/FlightSearchService.java" />
-      <change beforePath="$PROJECT_DIR$/kodilla-hibernate" afterPath="$PROJECT_DIR$/kodilla-hibernate" />
       <change beforePath="$PROJECT_DIR$/kodilla-jdbc" afterPath="$PROJECT_DIR$/kodilla-jdbc" />
       <change beforePath="$PROJECT_DIR$/kodilla-jdbc/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-jdbc/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/kodilla-jdbc/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-jdbc/.gradle/4.0/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/kodilla-patterns" afterPath="$PROJECT_DIR$/kodilla-patterns" />
       <change beforePath="$PROJECT_DIR$/kodilla-patterns/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-patterns/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/kodilla-patterns/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-patterns/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/kodilla-patterns3/build.gradle" afterPath="$PROJECT_DIR$/kodilla-patterns3/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/kodilla-patterns3/src/main/java/com/kodilla/kodillapatterns3/facade/api/OrderFacade.java" afterPath="$PROJECT_DIR$/kodilla-patterns3/src/main/java/com/kodilla/kodillapatterns3/facade/api/OrderFacade.java" />
-      <change beforePath="$PROJECT_DIR$/kodilla-patterns3/src/test/java/com/kodilla/kodillapatterns3/facade/ShopServiceTestSuite.java" afterPath="$PROJECT_DIR$/kodilla-patterns3/src/test/java/com/kodilla/kodillapatterns3/facade/ShopServiceTestSuite.java" />
       <change beforePath="$PROJECT_DIR$/kodilla-rps" afterPath="$PROJECT_DIR$/kodilla-rps" />
       <change beforePath="$PROJECT_DIR$/kodilla-rps/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-rps/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/kodilla-rps/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-rps/.gradle/4.0/fileHashes/fileHashes.lock" />
@@ -41,6 +32,7 @@
       <change beforePath="$PROJECT_DIR$/kodilla-testing" afterPath="$PROJECT_DIR$/kodilla-testing" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kodilla-testing/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kodilla-testing/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/library/library" afterPath="$PROJECT_DIR$/library/library" />
       <change beforePath="$PROJECT_DIR$/library/library/src/main/java/com/crud/library/controller/LibraryController.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/library/library/src/main/java/com/crud/library/domain/Reader.java" afterPath="$PROJECT_DIR$/library/library/src/main/java/com/crud/library/domain/Reader.java" />
       <change beforePath="$PROJECT_DIR$/library/library/src/main/java/com/crud/library/domain/ReaderDto.java" afterPath="$PROJECT_DIR$/library/library/src/main/java/com/crud/library/domain/ReaderDto.java" />
@@ -58,9 +50,7 @@
       <change beforePath="$PROJECT_DIR$/smsgateway/target/classes/pl/madamczyk/App.class" afterPath="$PROJECT_DIR$/smsgateway/target/classes/pl/madamczyk/App.class" />
       <change beforePath="$PROJECT_DIR$/smsgateway/target/classes/pl/madamczyk/Commander.class" afterPath="$PROJECT_DIR$/smsgateway/target/classes/pl/madamczyk/Commander.class" />
     </list>
-    <list id="a1da8162-584b-450e-81cf-256a47a15e00" name="Default" comment="Zadanie 7.4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list id="a1da8162-584b-450e-81cf-256a47a15e00" name="Default" comment="Zadanie 7.4" />
     <ignored path="$PROJECT_DIR$/kodilla-testing/.gradle/" />
     <ignored path="$PROJECT_DIR$/kodilla-testing/build/" />
     <ignored path="$PROJECT_DIR$/kodilla-testing/out/" />
@@ -211,14 +201,14 @@
       <file leaf-file-name="StoredProcTestSuite.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/StoredProcTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="407">
               <caret line="51" column="38" lean-forward="false" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1528661617649" expanded="true" signature="362:402" ph="UPDATE READERS... " />
-                <marker date="1528661617649" expanded="true" signature="690:758" ph="SELECT COUNT... READERS" />
-                <marker date="1528661617649" expanded="true" signature="1147:1179" ph="UPDATE BOOKS... " />
-                <marker date="1528661617649" expanded="true" signature="1478:1538" ph="SELECT COUNT... BOOKS" />
+                <marker date="1528661761607" expanded="true" signature="362:402" ph="UPDATE READERS... " />
+                <marker date="1528661761607" expanded="true" signature="690:758" ph="SELECT COUNT... READERS" />
+                <marker date="1528661761607" expanded="true" signature="1147:1179" ph="UPDATE BOOKS... " />
+                <marker date="1528661761607" expanded="true" signature="1470:1530" ph="SELECT COUNT... BOOKS" />
               </folding>
             </state>
           </provider>
@@ -5330,30 +5320,6 @@
               <item name="Projekty" type="462c0819:PsiDirectoryNode" />
               <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projekty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekty" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projekty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekty" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projekty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekty" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -5736,7 +5702,7 @@
       <workItem from="1527800857886" duration="4277000" />
       <workItem from="1527939732675" duration="65000" />
       <workItem from="1527941335769" duration="770000" />
-      <workItem from="1528660387972" duration="1340000" />
+      <workItem from="1528660387972" duration="1622000" />
     </task>
     <task id="LOCAL-00001" summary="First Testing">
       <created>1515533753474</created>
@@ -5749,9 +5715,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CompanyFacadeTestSuite - 2018.05.31 at 23h 35m 33s.xml">
-      <configuration name="CompanyFacadeTestSuite" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CompanyFacadeTestSuite - 2018.05.31 at 23h 40m 10s.xml">
       <configuration name="CompanyFacadeTestSuite" configurationId="JUnit" />
     </history-entry>
@@ -5776,12 +5739,15 @@
     <history-entry file="StoredProcTestSuite_testUpdateBestsellers - 2018.06.10 at 22h 11m 35s.xml">
       <configuration name="StoredProcTestSuite.testUpdateBestsellers" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StoredProcTestSuite_testUpdateBestsellers - 2018.06.10 at 22h 16m 06s.xml">
+      <configuration name="StoredProcTestSuite.testUpdateBestsellers" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="StoredProcTestSuite_testUpdateLevels - 2018.06.10 at 22h 09m 12s.xml">
       <configuration name="StoredProcTestSuite.testUpdateLevels" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="558810000" />
+    <option name="totallyTimeSpent" value="559092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -5814,10 +5780,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24835527" sideWeight="0.48184568" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24835527" sideWeight="0.48184568" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2951923" sideWeight="0.48335856" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2944079" sideWeight="0.48335856" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20045386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -6325,14 +6291,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/StoredProcTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="407">
           <caret line="51" column="38" lean-forward="false" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1528661617649" expanded="true" signature="362:402" ph="UPDATE READERS... " />
-            <marker date="1528661617649" expanded="true" signature="690:758" ph="SELECT COUNT... READERS" />
-            <marker date="1528661617649" expanded="true" signature="1147:1179" ph="UPDATE BOOKS... " />
-            <marker date="1528661617649" expanded="true" signature="1478:1538" ph="SELECT COUNT... BOOKS" />
+            <marker date="1528661761607" expanded="true" signature="362:402" ph="UPDATE READERS... " />
+            <marker date="1528661761607" expanded="true" signature="690:758" ph="SELECT COUNT... READERS" />
+            <marker date="1528661761607" expanded="true" signature="1147:1179" ph="UPDATE BOOKS... " />
+            <marker date="1528661761607" expanded="true" signature="1470:1530" ph="SELECT COUNT... BOOKS" />
           </folding>
         </state>
       </provider>
